@@ -6,7 +6,7 @@
 
 ## Repaso de tipos de datos
 
-- Enteros (/1_enteros.py)
+- [Enteros](/1_enteros.py)
 
 - Flotantes
 
